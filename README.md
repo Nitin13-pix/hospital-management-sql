@@ -170,7 +170,7 @@ The project ends with **10 real SQL interview questions** with full answers:
 
 ## 👤 Author
 
-**Your Name**  
+**Nitin**  
 [LinkedIn](www.linkedin.com/in/nitin-kabde-a2a018313) • [GitHub](https://github.com/Nitin13-pix)
 
 ---
