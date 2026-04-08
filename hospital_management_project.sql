@@ -1,8 +1,8 @@
 --   HOSPITAL MANAGEMENT SYSTEM — COMPLETE SQL PROJECT
 -- create database 
 
-create database HM_Project;
-use HM_Project;
+create database hospital_db;
+use hospital_db;
 
 -- PHASE 1: SCHEMA DESIGN — CREATE TABLES
 
